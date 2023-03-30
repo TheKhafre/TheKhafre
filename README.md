@@ -6,13 +6,13 @@
 ### <div align="center">I'm Oluwatobiloba Ezekiel, a junior software engineer 👨‍💻 from Nigeria 🚀</div>  
   
 
-- 🔭 I’m currently developing my knowledge of the C language 
+- 🔭 I’m currently developing my knowledge of Solidity and the blockchain network 
   
 
-- ❓ Ask me about anything related to Frontend, Scrapping or anything you want  
+- ❓ Ask me about anything related to Frontend, Celo blockchain or anything you want about programming  
   
 
-- 🌱 I’m currently improving my Unix knowledge  
+- 🌱 I’m currently improving my LAMP Skill set  
   
 
 - ⚡ Fun fact: I'm an athelete and a model coach too  
