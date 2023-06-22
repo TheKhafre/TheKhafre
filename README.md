@@ -37,7 +37,7 @@
 
 <br/>  
 
-<details><summary> My Skill Set </summary><table><tr><td valign="top" width="33%">
+<details><summary> My Skill Set </summary><table><tr><td valign="top" width="60%">
 
 
 
