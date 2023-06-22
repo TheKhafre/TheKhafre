@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Oluwatobiloba Ezekiel, a junior software engineer 👨‍💻 from Nigeria 🚀</div>  
+### <div align="center">I'm Oluwatobiloba Ezekiel, an emerging software engineer 👨‍💻 from Nigeria 🚀</div>  
   
 
 - 🔭 I’m currently developing my knowledge of Solidity and the blockchain network 
