@@ -6,16 +6,16 @@
 ### <div align="center">I'm Oluwatobiloba Ezekiel, an emerging software engineer 👨‍💻 from Nigeria 🚀</div>  
   
 
-- 🔭 I’m currently developing my knowledge of Solidity and the blockchain network 
+- 🔭 I’m currently saving the world with python, javascript and C (amongst many others; coding is fun) 
   
 
-- ❓ Ask me about anything related to Frontend, Celo blockchain or anything you want about programming  
+- ❓ Ask me about anything related to Django, Shell Scripting or anything interesting you want about programming  
   
 
-- 🌱 I’m currently improving my LAMP Skill set  
+- 🌱 I’m currently improving my Blockchain Development Skill set  
   
 
-- ⚡ Fun fact: I'm an athelete and a model coach too  
+- ⚡ Fun fact: I'm a technical writer and a product designer too; I've been doing that since way back😊😁  
   
 
 <br/>  
